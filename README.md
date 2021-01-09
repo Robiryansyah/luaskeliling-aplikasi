@@ -1,0 +1,2 @@
+# luaskeliling-aplikasi
+script java
